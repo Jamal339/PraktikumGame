@@ -21227,7 +21227,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1648891733}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8f3f05ba9c682884fb290f44bc7d0192, type: 3}
+  m_Script: {fileID: 11500000, guid: af22bd5b40e559841862e9a36b334a32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2078984585
@@ -21243,7 +21243,7 @@ GameObject:
   - component: {fileID: 2078984586}
   m_Layer: 0
   m_Name: SpikeTrap
-  m_TagString: Untagged
+  m_TagString: SpikeTrap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
